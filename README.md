@@ -3,6 +3,7 @@
 Building AI agents and developer tooling · **SF Bay Area**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcus--chang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-chang/)
+[![Email](https://img.shields.io/badge/Email-mingsiangchang%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mingsiangchang@gmail.com)
 
 ---
 
@@ -18,8 +19,3 @@ Building AI agents and developer tooling · **SF Bay Area**
 
 - **[Leeway](https://github.com/hardness1020/Leeway)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/Leeway?style=social)](https://github.com/hardness1020/Leeway/stargazers): A workflow-driven AI agent framework that executes YAML-defined decision trees.
 
----
-
-### ✉️ Contact
-
-📧 mingsiangchang@gmail.com &nbsp;·&nbsp; 🐙 [GitHub](https://github.com/hardness1020) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/marcus-chang/)
