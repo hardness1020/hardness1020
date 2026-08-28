@@ -16,6 +16,10 @@ Building AI agents and developer tooling · **SF Bay Area**
 - **[learn-deepseek-harness](https://github.com/hardness1020/learn-deepseek-harness)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-deepseek-harness?style=social)](https://github.com/hardness1020/learn-deepseek-harness/stargazers): Everything is a plugin: rebuild DeepSeek Harness from scratch.
 - **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** (contributor) [![GitHub Stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=social)](https://github.com/shareAI-lab/learn-claude-code/stargazers): Bash is all you need: a nano Claude Code–like agent harness, built from 0 to 1.
 
+#### Agent Skills
+
+- **[EvalGrill](https://github.com/hardness1020/EvalGrill)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/EvalGrill?style=social)](https://github.com/hardness1020/EvalGrill/stargazers): Turn real AI agent failures into trustworthy, validated evals.
+
 #### Agent Engine
 
 - **[Leeway](https://github.com/hardness1020/Leeway)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/Leeway?style=social)](https://github.com/hardness1020/Leeway/stargazers): A workflow-driven AI agent framework that executes YAML-defined decision trees.
