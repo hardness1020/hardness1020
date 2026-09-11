@@ -14,7 +14,6 @@ Building AI agents and developer tooling · **SF Bay Area**
 - **[learn-agent-architecture](https://github.com/hardness1020/learn-agent-architecture)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-agent-architecture?style=social)](https://github.com/hardness1020/learn-agent-architecture/stargazers): Learn AI agents from scratch.
 - **[learn-agent-memory](https://github.com/hardness1020/learn-agent-memory)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-agent-memory?style=social)](https://github.com/hardness1020/learn-agent-memory/stargazers): Build a production-grade agent memory system, stage by stage.
 - **[learn-deepseek-harness](https://github.com/hardness1020/learn-deepseek-harness)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-deepseek-harness?style=social)](https://github.com/hardness1020/learn-deepseek-harness/stargazers): Everything is a plugin: rebuild DeepSeek Harness from scratch.
-- **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** (contributor) [![GitHub Stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=social)](https://github.com/shareAI-lab/learn-claude-code/stargazers): Bash is all you need: a nano Claude Code–like agent harness, built from 0 to 1.
 
 #### Agent Skills
 
@@ -24,3 +23,9 @@ Building AI agents and developer tooling · **SF Bay Area**
 
 - **[Leeway](https://github.com/hardness1020/Leeway)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/Leeway?style=social)](https://github.com/hardness1020/Leeway/stargazers): A workflow-driven AI agent framework that executes YAML-defined decision trees.
 
+---
+
+### 🌱 Open Source Contributions
+
+- **[CocoIndex](https://github.com/cocoindex-io/cocoindex)** [![GitHub Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=social)](https://github.com/cocoindex-io/cocoindex/stargazers): 2 merged PRs · Runtime reliability, error handling, Python/Rust interop
+- **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** [![GitHub Stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=social)](https://github.com/shareAI-lab/learn-claude-code/stargazers): 5 merged PRs · Build a Claude Code–style agent harness from scratch
