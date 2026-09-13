@@ -24,5 +24,5 @@ Building AI agents and developer tooling · **SF Bay Area**
 
 ### 🌱 Open Source Contributions
 
-- **[CocoIndex](https://github.com/cocoindex-io/cocoindex)** [![GitHub Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=social)](https://github.com/cocoindex-io/cocoindex/stargazers): 2 merged PRs · Runtime reliability, error handling, Python/Rust interop
+- **[CocoIndex](https://github.com/cocoindex-io/cocoindex)** [![GitHub Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=social)](https://github.com/cocoindex-io/cocoindex/stargazers): 4 merged PRs · Runtime reliability, error handling, Python/Rust interop
 - **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** [![GitHub Stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=social)](https://github.com/shareAI-lab/learn-claude-code/stargazers): 5 merged PRs · Build a Claude Code–style agent harness from scratch
