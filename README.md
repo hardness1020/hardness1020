@@ -12,7 +12,6 @@ Building AI agents and developer tooling · **SF Bay Area**
 #### Agent Tutorial
 
 - **[learn-agent-architecture](https://github.com/hardness1020/learn-agent-architecture)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-agent-architecture?style=social)](https://github.com/hardness1020/learn-agent-architecture/stargazers): Learn AI agents from scratch.
-- **[learn-agent-memory](https://github.com/hardness1020/learn-agent-memory)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-agent-memory?style=social)](https://github.com/hardness1020/learn-agent-memory/stargazers): Build a production-grade agent memory system, stage by stage.
 - **[learn-deepseek-harness](https://github.com/hardness1020/learn-deepseek-harness)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-deepseek-harness?style=social)](https://github.com/hardness1020/learn-deepseek-harness/stargazers): Everything is a plugin: rebuild DeepSeek Harness from scratch.
 
 
