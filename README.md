@@ -11,21 +11,20 @@ Building AI agents and developer tooling · **SF Bay Area**
 
 #### Agent Tutorial
 
-- **[learn-agent-architecture](https://github.com/hardness1020/learn-agent-architecture)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-agent-architecture?style=social)](https://github.com/hardness1020/learn-agent-architecture/stargazers): Learn AI agents from scratch.
-- **[learn-deepseek-harness](https://github.com/hardness1020/learn-deepseek-harness)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-deepseek-harness?style=social)](https://github.com/hardness1020/learn-deepseek-harness/stargazers): Everything is a plugin: rebuild DeepSeek Harness from scratch.
-
+- [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-agent-architecture?style=social)](https://github.com/hardness1020/learn-agent-architecture/stargazers) **[learn-agent-architecture](https://github.com/hardness1020/learn-agent-architecture)**: Learn AI agents from scratch.
+- [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/learn-deepseek-harness?style=social)](https://github.com/hardness1020/learn-deepseek-harness/stargazers) **[learn-deepseek-harness](https://github.com/hardness1020/learn-deepseek-harness)**: Everything is a plugin: rebuild DeepSeek Harness from scratch.
 
 #### Agent Engine
 
-- **[Leeway](https://github.com/hardness1020/Leeway)** [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/Leeway?style=social)](https://github.com/hardness1020/Leeway/stargazers): A workflow-driven AI agent framework that executes YAML-defined decision trees.
+- [![GitHub Stars](https://img.shields.io/github/stars/hardness1020/Leeway?style=social)](https://github.com/hardness1020/Leeway/stargazers) **[Leeway](https://github.com/hardness1020/Leeway)**: A workflow-driven AI agent framework that executes YAML-defined decision trees.
 
 ---
 
 ### 🌱 Open Source Contributions
 
-- **[CocoIndex](https://github.com/cocoindex-io/cocoindex)** [![GitHub Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=social)](https://github.com/cocoindex-io/cocoindex/stargazers): 4 merged PRs · Runtime reliability, error handling, Python/Rust interop
-- **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** [![GitHub Stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=social)](https://github.com/shareAI-lab/learn-claude-code/stargazers): 5 merged PRs · Build a Claude Code–style agent harness from scratch
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)](https://github.com/promptfoo/promptfoo/stargazers): 1 merged PR · Fixed glob expansion for single-string test configurations
-- **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)](https://github.com/deepset-ai/haystack/stargazers): 1 merged PR · Fixed missing tracebacks in `logger.exception()`
-- **[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)** [![GitHub Stars](https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=social)](https://github.com/opensandbox-group/OpenSandbox/stargazers): 1 merged PR · Fixed encoded path and query forwarding in HTTP/WebSocket sandbox proxies
-- **[E2B](https://github.com/e2b-dev/E2B)** [![GitHub Stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social)](https://github.com/e2b-dev/E2B/stargazers): Bug report & Proposed fix · `.dockerignore` handling in JS/Python SDKs; resolved upstream ([Issue](https://github.com/e2b-dev/E2B/issues/1902) · [PR](https://github.com/e2b-dev/E2B/pull/1903))
+- [![GitHub Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=social)](https://github.com/cocoindex-io/cocoindex/stargazers) **[CocoIndex](https://github.com/cocoindex-io/cocoindex)**: 4 merged PRs · Runtime reliability, error handling, Python/Rust interop
+- [![GitHub Stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=social)](https://github.com/shareAI-lab/learn-claude-code/stargazers) **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)**: 5 merged PRs · Build a Claude Code–style agent harness from scratch
+- [![GitHub Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)](https://github.com/promptfoo/promptfoo/stargazers) **[Promptfoo](https://github.com/promptfoo/promptfoo)**: 1 merged PR · Fixed glob expansion for single-string test configurations
+- [![GitHub Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)](https://github.com/deepset-ai/haystack/stargazers) **[Haystack](https://github.com/deepset-ai/haystack)**: 1 merged PR · Fixed missing tracebacks in `logger.exception()`
+- [![GitHub Stars](https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=social)](https://github.com/opensandbox-group/OpenSandbox/stargazers) **[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)**: 1 merged PR · Fixed encoded path and query forwarding in HTTP/WebSocket sandbox proxies
+- [![GitHub Stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social)](https://github.com/e2b-dev/E2B/stargazers) **[E2B](https://github.com/e2b-dev/E2B)**: Bug report & Proposed fix · `.dockerignore` handling in JS/Python SDKs; resolved upstream ([Issue](https://github.com/e2b-dev/E2B/issues/1902) · [PR](https://github.com/e2b-dev/E2B/pull/1903))
